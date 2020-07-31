@@ -1,4 +1,4 @@
-  <script type="text/javascript" src="https://ssl.gstatic.com/trends_nrtr/2213_RC01/embed_loader.js"></script>
-  <script type="text/javascript">
+<script type="text/javascript" language="javascript" src="https://ssl.gstatic.com/trends_nrtr/2213_RC01/embed_loader.js"></script>
+<script type="text/javascript" language="javascript">
     trends.embed.renderExploreWidget("TIMESERIES", {"comparisonItem":[{"keyword":"belmax","geo":"BR","time":"today 3-m"},{"keyword":"griffus","geo":"BR","time":"today 3-m"}],"category":0,"property":""}, {"exploreQuery":"date=today%203-m&geo=BR&q=belmax,griffus","guestPath":"https://trends.google.com.br:443/trends/embed/"});
-  </script>
+</script>
